@@ -379,7 +379,8 @@ hr {
   width: 23%;
   height: 100%;
   position: fixed;
-  background-color: #5f6d7e;
+  /*  background-color: #5f6d7e; */
+  background-color: gray;
   color: white;
   overflow-y: hidden;
 }
